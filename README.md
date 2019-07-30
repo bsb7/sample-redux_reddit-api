@@ -71,7 +71,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 install the following dependencies
 
 npm i redux react-redux redux-thunk
+
 npm i redux-logger
+
 npm i prop-types
 
 
